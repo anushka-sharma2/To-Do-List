@@ -8,8 +8,8 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. I
 - User-friendly interface.
 
 ## Files
-- `index.html`: The main HTML structure of the application.
-- `script.css`: Stylesheet for styling the application.
+- `to_do_list.html`: The main HTML structure of the application.
+- `todo.css`: Stylesheet for styling the application.
 - `script.js`: JavaScript file to handle the functionality of adding and removing tasks.
 
 ## How to Use
